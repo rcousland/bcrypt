@@ -1,0 +1,23 @@
+{
+  "name": "bcrypt",
+  "version": "1.0.0",
+  "description": "bcrypt test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcousland/bcrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcousland/bcrypt/issues"
+  },
+  "homepage": "https://github.com/rcousland/bcrypt#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "4.16.2"
+  }
+}
